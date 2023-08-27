@@ -1,0 +1,238 @@
+*{
+    font-family: 'Poppins', sans-serif;
+  
+}
+body{
+    margin:0;
+}
+.navbar img{
+   height: 50px;
+   border-radius: 50%;
+   cursor: pointer;
+justify-content: space-evenly;
+text-align: center;
+   margin-left: 10rem;
+   /* margin-top:5rem; */
+
+}
+.navbar a{
+    color: black;
+    font-size: 20px;
+cursor: pointer;
+justify-content: space-evenly;
+text-align: center;
+margin-left: 10rem;
+font-weight: 500px;
+
+}
+.button{
+    color:white;
+    height:50px;
+    width:80px;
+    background: linear-gradient(360deg, #234EB0 5%, #9010B0 100%);
+    border-radius: 30px;
+    font-size: 18px;
+    border: 2px rgb(240, 58, 240);
+    margin-left: 7rem;
+    
+}
+.navbar{
+    margin-top: 5rem;
+}
+
+.row h1{
+font-size: 30px;
+height:100px;
+text-align: center;
+font-weight: bold;
+
+color:black;
+
+}
+
+.uni1{
+    font-size: 26px;
+    height:110px;
+    width:61%;
+    border: 2px  #888888;
+    box-shadow: 8px 8px 8px 8px #f0e7e7;
+    border-radius: 30px;
+    text-align: center;
+    margin:auto;
+    padding:2rem;  
+}
+.sec2Head h1{
+    font-size:30px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.uni2 img{
+    font-size: 26px;
+    height:250px;
+   width:250px;
+    border-radius: 50%;
+    text-align: right;
+    margin:auto;
+    padding:2rem;  
+}
+.uni2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: right;
+}
+.univercities1{
+    /* background-color: black;
+    color: white; */
+
+}
+.identi{
+    
+    display: block;
+    justify-content: space-evenly;
+    text-align:center;
+    margin: auto;
+}
+.name{
+    font-size: 20px;
+}
+.section3{
+    height:400px;
+    width:350px;
+    border: 2px  #888888;
+    box-shadow: 8px 8px 8px 8px #f0e7e7;
+    border-radius: 30px;
+    align-items: center;
+    margin: auto;
+    margin-top:10rem;
+    
+
+}
+.section3 img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 12vw;
+    width: 12vw;
+    border-radius: 50%;
+    padding-top:2rem;
+}
+.mentName{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2rem;
+}
+.info{
+    font-size: 15px;
+    color: grey;
+    width:50%;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   margin: auto;
+   
+}
+.section5{
+    display:flex;
+    justify-content: center;
+   text-align: center;
+   margin: auto;
+   margin-top: 5rem;
+   
+}
+.section5 img{
+    /* position: static; */
+    width: 335.08px;
+    height: 286.61px;
+    left: 188px;
+    top: 462.71px;
+    border:20px solid purple ;
+    border-radius: 67% 33% 30% 70% / 30% 30% 70% 70% ;
+  
+   
+}
+.vivinfo{
+    
+align-items:right;
+margin-top:6rem;
+
+
+}
+.vivName{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+   
+}
+.vivqual{
+    font-size: 18px;
+    color:grey;
+    width:62%;
+    text-align: left;
+   
+}
+.msg{
+    height:50px;
+    width:200px;
+    border: 2px solid rgb(190, 102, 190);
+    border-radius: 30px;
+    text-align: left;
+    margin-top:3rem;
+    padding-top: 1rem;
+}
+.msg p{
+    text-align: center;
+    margin: auto;
+    color:purple;
+}
+.col-2{
+    width:10%;
+}
+.section6{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin: auto;
+    margin-right: 10rem;
+    margin-bottom: 2rem;;
+}
+.section6 img{
+    /* position: static; */
+    width: 335.08px;
+    height: 286.61px;
+    left: 188px;
+    top: 462.71px;
+    border:20px solid purple ;
+    border-radius: 67% 33% 30% 70% / 30% 30% 70% 70% ;
+    
+    margin-right:90px;
+  
+   
+}
+.footer{
+    /* position: relative; */
+    height:300px;
+    width:100%;
+    background-image: url(https://files.sciastra.com/footermain.jpg);
+    color: white;
+    font-size: 18px;
+    padding-top:2rem;
+    
+}
+.footer ul{
+    color: white;
+    font-size: 18px;
+    margin-top:1rem;
+
+}
+.footer p{
+    color: white;
+    font-size: 18px;
+    margin-top:1rem;
+    text-align: center;
+    margin: auto;
+    bottom: 0;
+
+}
